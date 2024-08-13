@@ -1,8 +1,10 @@
-# This is my GAN project.
+# Generating Very Realistic Images
 
 How do you think about these photos.
 
 These photos are generated using modern AI model.
+
+To find this model, I tested a lot of models.
 
 To avoid NSFW, you MUST use negative prompt like "nude" or "naked".
 
